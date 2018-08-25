@@ -14,6 +14,6 @@
     "ocaml": "~4.6.0"
   }, 
   "dependencies": {
-    "@opam/lambda-term": "1.13.0"
+    "@opam/lambda-term": "^1.11.0"
   }
 }
